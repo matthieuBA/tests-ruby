@@ -77,7 +77,7 @@ end
 
 
 print translate("the quick brown fox")
-print "toto"
+
 
 #eatay iepay
 #eethray
